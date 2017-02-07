@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Calculadora" type="CLASS" />
+      <mapping pattern="Teste" type="GUI_DESIGNER_FORM" />
+      <mapping pattern="Calculadora.java" type="RegExp" />
+    </extensionMap>
+  </component>
+</application>
